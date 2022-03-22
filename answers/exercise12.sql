@@ -1,0 +1,1 @@
+ALTER TABLE CHANGE COLUMN MiddleName Initial varchar(64);
